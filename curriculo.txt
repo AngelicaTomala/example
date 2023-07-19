@@ -1,4 +1,4 @@
 Este es el primer arhivo de ejemplo clase1.
 Actualmente estoy aprendiendo nuevo lenguaje
 
-Actualmente estoy aprendiendo # para trabajar con .net y blazor
+Actualmente estoy aprendiendo Django con el dont no repeat
