@@ -2,3 +2,5 @@ Este es el primer arhivo de ejemplo clase1.
 Actualmente estoy aprendiendo nuevo lenguaje
 
 Actualmente estoy aprendiendo Django con el dont no repeat
+
+Desarrollamos de manera rapida modelo vistas y templatefa-spin
